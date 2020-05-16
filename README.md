@@ -51,12 +51,12 @@ Confusion Matrix makes visualizion of the result very easy and highlights the co
 Divyanshu Gupta <gupta.divyanshuu@gmail.com>
 
 
-[GITHUB PROFILE](https://github.com/divi-gupta)
+[Github](https://github.com/divi-gupta)
 
-[LINKDIN](www.linkedin.com/in/gupta--divyanshu)
+[Linkedin](www.linkedin.com/in/gupta--divyanshu)
 
 ---
 ## LICENSE & COPYRIGHT
-© Divyanshu gupta
+© Divyanshu gupta 
 
 Licensed under the [MIT License.](https://github.com/divi-gupta/Image_Classifier/blob/master/LICENSE.txt) 
