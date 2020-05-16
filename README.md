@@ -24,7 +24,7 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 [CLICK HERE TO DOWNLOAD THE DATASET](http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) 
 
 ---
-## RESULT
+## MISCLASSIFIED IMAGES
 Below are some interesting examples where the model failed to predict the correct output
 
 ![](https://github.com/divi-gupta/Image_Classifier/blob/master/Misclassified_Results/1.png?raw=true)
@@ -36,10 +36,14 @@ Below are some interesting examples where the model failed to predict the correc
 ![](https://github.com/divi-gupta/Image_Classifier/blob/master/Misclassified_Results/7.png?raw=true)
 
 ---
-## PLOTS 
+## RESULTS AND ANALYSIS
 ![Loss per Iteration](https://github.com/divi-gupta/Image_Classifier/blob/master/plots/Loss%20per%20Iteration.png?raw=true)
 
 ![Accuracy per Iteration](https://github.com/divi-gupta/Image_Classifier/blob/master/plots/Accuracy_per_Iteration.png?raw=true)
+
+Confusion Matrix makes visualizion of the result very easy and highlights the correct prediction with blue. 
+
+![Confusion_matrix](https://github.com/divi-gupta/Image_Classifier/blob/master/plots/Confusion_matrix.png?raw=true)
 
 
 ---
